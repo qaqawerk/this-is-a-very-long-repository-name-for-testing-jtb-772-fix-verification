@@ -2,6 +2,8 @@
 
 Test repository created specifically to verify the fix for **JTB-772**
 (`DataError: value too long for type character varying(64)`).
+Long Repo Name Test — JTB-772
+
 
 ## Purpose
 
